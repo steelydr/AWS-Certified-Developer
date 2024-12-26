@@ -3,10 +3,10 @@ The AWS Certified Developer – Associate certification validates your technical
 
 # Exam Details:
 
-Format: 65 questions, either multiple choice or multiple response.
-Duration: 130 minutes.
-Cost: $150 USD.
-Languages Offered: English, Japanese, Korean, Portuguese (Brazil), Simplified Chinese, and Spanish (Latin America).
+* Format: 65 questions, either multiple choice or multiple response.
+* Duration: 130 minutes.
+* Cost: $150 USD.
+* Languages Offered: English, Japanese, Korean, Portuguese (Brazil), Simplified Chinese, and Spanish (Latin America).
 Validity: Certification is valid for three years.
 
 # Exam Domains:
